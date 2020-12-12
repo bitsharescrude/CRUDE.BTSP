@@ -18,6 +18,8 @@ Bitsharescrude liquidity pool token
 - Disable confidential transactions
 # Flags
 - None
+# POOL TYPE
+- Mining Pool
 # How it Works
 - Users provide liquidity to the pool in order to gain more bitshares in the future....
 - This is acheived via constant swap operations that will be performed by the pool Mananger to improve the value of the pool...

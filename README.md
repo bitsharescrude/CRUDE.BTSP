@@ -9,6 +9,8 @@ Bitsharescrude liquidity pool token.
 - Market Fee Rate 0%
 - Market Fee Referral Reward 0%
 - Max Market Fee 0
+- Taker fee 10%
+- withdrawal fee 5%
 
 # Permissions
 - Enable market fee

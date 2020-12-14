@@ -9,8 +9,8 @@ Bitsharescrude liquidity pool token.
 - Market Fee Rate 0%
 - Market Fee Referral Reward 0%
 - Max Market Fee 0
-- Taker fee 10%
-- withdrawal fee 5%
+- Taker fee percent 10 (0.1%)
+- withdrawal fee percent 5 (0.05%)
 
 # Permissions
 - Enable market fee
@@ -26,7 +26,8 @@ Bitsharescrude liquidity pool token.
 - Reward Asset CNGN
 - Contract token CRUDE.BTSP
 - 
-- Minimum to Receive per swap 0.83CRUDE.NGN
+- Minimum to Receive per swap 1 BTS
+- Swap frequency **daily
 # How it Works
 - Users provide liquidity to the pool in order to gain more bitshares in the future....
 - This is acheived via constant swap operations that will be performed by the pool Mananger to improve the value of the pool...

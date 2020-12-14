@@ -21,11 +21,11 @@ Bitsharescrude liquidity pool token.
 # Flags
 - None
 # POOL TYPE
-- Mining Pool (N/B swap to be done by Pool Manager)
+- Mining Pool (N/B swaps will be managed by Pool Manager)
 - Asset to mine BTS
 - Reward Asset CNGN
 - Contract token CRUDE.BTSP
-- Initial Virtual Value = 1,028,500.0000000
+- 
 - Minimum to Receive per swap 0.83CRUDE.NGN
 # How it Works
 - Users provide liquidity to the pool in order to gain more bitshares in the future....

@@ -26,10 +26,11 @@ Bitsharescrude liquidity pool token.
 - Reward Asset CNGN
 - Contract token CRUDE.BTSP
 # Rebalance conditions
-- Minimum to -50% = 100% of Asset A in pool (currently 1093BTS)
-- Rebalance happens @ 90% of Asset A in pool (currently 2000BTS)
+- Minimum to -50% = 100% of Asset A in pool.
+- Rebalance happens @ 90% of Asset A in pool.
 # Swap frequency
 - daily
+- Reward amount = 90%
 # How it Works
 - Users provide liquidity to the pool in order to gain more bitshares in the future....
 - This is acheived via constant swap operations that will be performed by the pool Mananger to improve the value of the pool...

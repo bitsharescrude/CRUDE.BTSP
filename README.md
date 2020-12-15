@@ -25,7 +25,9 @@ Bitsharescrude liquidity pool token.
 - Asset to mine BTS
 - Reward Asset CNGN
 - Contract token CRUDE.BTSP
-- Minimum to Receive per swap 1 BTS
+# Rebalance conditions
+- Minimum to -50% = 100% of Asset A in pool (currently 1093BTS)
+- Rebalance happens @ 90% of Asset A in pool (currently 2000BTS)
 # Swap frequency
 - daily
 # How it Works

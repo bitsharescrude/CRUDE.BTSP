@@ -15,7 +15,6 @@ Bitsharescrude liquidity pool token.
 # Permissions
 - Enable market fee
 - Require holders to be white-listed
-- Issuer may transfer asset back to himself
 - Issuer must approve all transfers
 - Disable confidential transactions
 # Flags
@@ -30,10 +29,8 @@ Bitsharescrude liquidity pool token.
 - Rebalance happens @ 90% of Asset A in pool.
 # Swap frequency
 - daily
-- Reward amount = 90%
 # How it Works
 - Users provide liquidity to the pool in order to gain more bitshares in the future....
-- This is acheived via constant swap operations that will be performed by the pool Mananger to improve the value of the pool...
-- The contract token CBTSP will be held by the Manager in order to reduce supply and improve value. 
+- This is acheived via constant swap operations that will be performed by the pool Mananger to improve the value of the pool... 
 # DISCLAIMER
 Liquidity Pools are still unstable, there's risk of losing your funds so trade with caution, the pool manager will not be liable for any losses as result of using the pool either by providing liquidity or performing swaps... 
